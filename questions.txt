@@ -1,0 +1,13 @@
+33099,hyderabad,pubg,white,latha
+33089,hyderabad,dota,blue,vani
+3094,chennai,temple run,yellow,laxmi
+33087,banglore,2 cars,black,jessy
+33097,delhi,ludo,green,samantha
+33098,mumbai,pokemon go,purple,pushpa
+33093,pakistan,shooting,red,fathima
+33091,los Angeles,wordlink,violet,catherine
+33092,japan,football,Brown,aki
+33095,kerela,Hide and seek,white,jaya
+33088,tamilnadu,kabaddi,skyblue,sashi
+33096,hitechcity,badminton,peach,rekha
+33090,jammu and kashmir,snowball,ash,parvati
