@@ -626,7 +626,7 @@ int main()
 			switch (j)
 			{
 			case 1:
-				key = stoi(token, nullptr, 10);
+				key = stoi(token, nullptr, 100);
 				if (key > max_accno)
 				{
 					max_accno = key;
